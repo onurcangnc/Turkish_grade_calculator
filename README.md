@@ -11,6 +11,7 @@ Example run:
 --> I added master code you can easily downloads.
 
 --> My program calculates different ranges.
+
 --> I added screenshot for grade ranges.
 
 Additional information: Less than 45 means " You will get FZ letter grade".
